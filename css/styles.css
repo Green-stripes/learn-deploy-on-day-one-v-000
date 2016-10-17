@@ -133,6 +133,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#kaveri-bhattacharya-cover {
+  background-image: url("http://imgur.com/PNnexl1.jpg");
+}
+
+#kaveri-bhattacharya-card {
+  background-image: url("http://imgur.com/SYiGXHS.jpg");
+}
 #pamela-bortnick-cover {
   background-image: url("http://i.imgur.com/kZGkLt1.jpg");
 }
